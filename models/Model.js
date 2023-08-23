@@ -6,7 +6,7 @@ class model {
       return number+number
     }
     deletedelete(number) {
-      return number
+      return number--
     }
     plusplus(number) {
       return number++

@@ -7,4 +7,7 @@ const que1Controller = (req, res) => {
     res.json({ que1 });
 };
 
+
+
 module.exports = { que1Controller };
+
